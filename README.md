@@ -32,13 +32,9 @@
 
  <h1 align="center">Hi 👋, I'm MD ATIF RAZA</h1>
 <h3 align="center">A passionate MERN STACK developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img class="giphy-gif-img giphy-img-loaded" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif?cid=ecf05e47vp0buve8kmrrua3vit9n5obp3ali93i7h350nh7e&amp;ep=v1_gifs_search&amp;rid=200.gif&amp;ct=g"  align="right" alt="coding" width="400" style="background: black">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eldorado0786&label=Profile%20views&color=0e75b6&style=flat" alt="eldorado0786" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eldorado0786" alt="eldorado0786" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@sheikhmdatifra1" target="blank"><img src="https://img.shields.io/twitter/follow/@sheikhmdatifra1?logo=twitter&style=for-the-badge" alt="@sheikhmdatifra1" /></a> </p>
 
 - 🔭 I’m currently working with **Apeiro Medica**
 

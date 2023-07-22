@@ -4,8 +4,6 @@
 <h3 align="center">A passionate MERN STACK developer from India</h3>
 <img class="giphy-gif-img giphy-img-loaded" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif?cid=ecf05e47vp0buve8kmrrua3vit9n5obp3ali93i7h350nh7e&amp;ep=v1_gifs_search&amp;rid=200.gif&amp;ct=g"  align="right" alt="coding" width="400" style="background: black">
 
-
-
 - 🔭 I’m currently working with **Apeiro Medica**
 
 - 🌱 I’m currently learning **DSA**

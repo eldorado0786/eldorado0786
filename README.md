@@ -14,13 +14,13 @@
 
 - 🤝 I’m looking for help with **WEB-DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/md-atif-raza-536168251" target="blank">Linkden</a>
+- 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/md-atif-raza-536168251" target="_blank">Linkden</a>
 
 - 💬 Ask me about **react,nodejs,mongodb,Mern**
 
 - 📫 How to reach me **mdatifraza926@gamil.com**
 
-- 📄 Know about my experiences  <a href="https://mdatifraza.com/" target="blank">Portfolio</a>
+- 📄 Know about my experiences  <a href="https://mdatifraza.com/" target="_blank">Portfolio</a>
 
 - ⚡ Fun fact **i dont like #coding**
 

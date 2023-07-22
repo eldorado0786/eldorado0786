@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **WEB-DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/md-atif-raza-536168251" target="_blank">Linkden</a>
+- 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/md-atif-raza-536168251" target="_blank">Linkedin</a>
 
 - 💬 Ask me about **react,nodejs,mongodb,Mern**
 

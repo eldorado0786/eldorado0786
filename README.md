@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fdommespace-domme-space-programador-qgQUggAC3Pfv687qPC&psig=AOvVaw0Z9Bs0UUwDYKA1eZeeuedS&ust=1686568931082000&source=images&cd=vfe&ved=2ahUKEwjJwr2Bjbv_AhU1QWwGHQ-oDgwQjRx6BAgAEAw" alt="banner image "/>
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" style="max-width: 1600px; height: 322px; margin: 0px; width: 736px;" alt="Banner Image">
 <!--  <h1 align="center">Hi 👋, I'm MD ATIF RAZA</h1>
 <h3 align="center">A passionate MERN STACK developer from India</h3>
 

@@ -1,5 +1,4 @@
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" style="height: 322px;   width: 100dvh; display: block; margin: auto;"  alt="Banner Image">
-   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  style="max-width: 1600px; height: 322px; margin: 0px; width: 736px;" alt="Banner Img" >
 
 <h1 align="center">Hi 👋, I'm MD ATIF RAZA</h1>
 <h3 align="center">A passionate MERN STACK developer from India</h3>
@@ -15,13 +14,13 @@
 
 - 🤝 I’m looking for help with **WEB-DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/md-atif-raza-536168251](https://www.linkedin.com/in/md-atif-raza-536168251)
+- 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/md-atif-raza-536168251" target="blank">Linkden</a>
 
 - 💬 Ask me about **react,nodejs,mongodb,Mern**
 
-- 📫 How to reach me **https://www.linkedin.com/in/md-atif-raza-536168251**
+- 📫 How to reach me **mdatifraza926@gamil.com**
 
-- 📄 Know about my experiences [https://mdatifraza.com/](https://mdatifraza.com/)
+- 📄 Know about my experiences  <a href="https://mdatifraza.com/" target="blank">Portfolio</a>
 
 - ⚡ Fun fact **i dont like #coding**
 

@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" style="height: 322px;    display: block; margin: auto;"  alt="Banner Image">
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" style="height: 322px;     width: -webkit-fill-available;    display: block; margin: auto;"  alt="Banner Image">
 
 <h1 align="center">Hi 👋, I'm MD ATIF RAZA</h1>
 <h3 align="center">A passionate MERN STACK developer from India</h3>

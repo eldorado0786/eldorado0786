@@ -52,11 +52,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=eldorado0786&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://api.memegen.link/images/buzz/memes/memes_everywhere.webp' style="height: 400px;"/>
+
+
 
 ---
 
